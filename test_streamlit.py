@@ -2,8 +2,8 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-#import pymysql
-#import sqlalchemy
+import pymysql
+import sqlalchemy
 import altair as alt
 
 #tvorba sidebar a vice stranek
