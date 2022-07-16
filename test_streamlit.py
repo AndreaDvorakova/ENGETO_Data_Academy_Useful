@@ -2,7 +2,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import pymysql
+#import pymysql
 import sqlalchemy
 import altair as alt
 
